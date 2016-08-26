@@ -54,7 +54,10 @@
 * [TextField](ew3/README.md)
 * [Notification](notification/README.md)
    * [delegate KVO KVC](notification/different_delegate&notification.md)
-* [collectionView](conllectionview/README.md)
+* [UICollectionView](conllectionview/README.md)
+   * [FlowLayout-custom](conllectionview/flowlayout-custom.md)
+   * [Layout](conllectionview/layout.md)
+   * [waterFall](conllectionview/waterfall.md)
 * [-----------------xxx-------------------------](-----------------xxx-------------------------/README.md)
 * [PickerView](pickerview/README.md)
    * [datePicker](pickerview/datepicker.md)
@@ -97,5 +100,6 @@
    * [status--Anim](coreanimation/status--anim.md)
    * [58-Anim](coreanimation/58-anim.md)
    * [path Anim](coreanimation/path_anim.md)
+* [UIDynamic](uidynamic/README.md)
 * [UI-Project-Lottery](ui-projects-end/README.md)
 
