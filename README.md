@@ -10,6 +10,7 @@
 
 ### 把本书中根路径的`**apple**`文件夹拖入到电脑用户文件夹
 
-![](./iosbook/images/Snip20160829_18.png)
+![](iOSBook/images/Snip20160829_18.png)
+
 
 ---
