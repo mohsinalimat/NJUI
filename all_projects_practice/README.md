@@ -5,13 +5,13 @@
 ---
 
 ## 所有的程序设计
-### 0526
+
 - 1> storyboard 添加label和3个button,修改文字的颜色
 - 2> view的先后顺序区别和怎么添加和删除
 - 3> 通过storyboard创建 + - 按钮, 设置属性和状态
 - 3> 通过纯代码创建+ - 按钮,并设置属性和状态
 
-### 0527
+
 - 1> 九宫格
 - 1> 按钮的状态控制
 - 1> 添加指示器HUD
@@ -21,7 +21,7 @@
 - 1> 纯代码封装shopView
 - 2> uibutton uiimageview label 的选择
 
-### 0529
+
 - 1> xib封装shopView
 - 2> scrollView contentSize
 - 3> contentOffset 动画
@@ -31,7 +31,7 @@
 - 7> 内容缩放
 - 8> xib 的封装和pageControl 的使用
 
-### 0530
+
 - 1> 分页的使用和定时器的添加
 - 2> Autoresizing
 - 3> Autolayout
